@@ -9525,5 +9525,21 @@
     "endpoints": {
       "streamableHttp": "https://app.hutchdb.com/api/mcp"
     }
+  },
+  {
+    "name": "open-data-mcp",
+    "url": "https://github.com/markatdataandbeyond/open-data-mcp",
+    "description": "Free local stdio MCP with ten tools on official open data: EU VAT/LEI, TED tenders, PubMed, ClinicalTrials.gov, company registries, VIN recalls and weather.",
+    "category": "data-analytics-and-bi",
+    "language": "JavaScript",
+    "provider": "Community",
+    "tags": [
+      "open-data",
+      "vies",
+      "pubmed",
+      "company-registry",
+      "stdio"
+    ],
+    "official": false
   }
 ]
